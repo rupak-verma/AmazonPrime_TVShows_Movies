@@ -61,17 +61,11 @@ Data cleaning and preprocessing
 
 Handling missing values
 
-Univariate analysis (distribution plots, histograms, boxplots)
+Univariate analysis
 
 Bivariate analysis
 
-IMDb score and votes comparison
-
-Top 5 titles based on ratings and votes
-
-Runtime analysis
-
-Year-wise content growth analysis
+Multivariate analysis
 
 ## Key Insights
 
@@ -101,22 +95,23 @@ Consider adding popular pre-2010 content
 
 Clone the repository
 
-git clone <>
+git clone <https://github.com/rupak-verma/AmazonPrime_TVShows_Movies.git>
 
 Install required libraries
 
-pip install pandas numpy matplotlib seaborn
+pip install pandas numpy matplotlib seaborn plotly
 
 Open the notebook
 
-jupyter notebook AmazonPrime_TVshows_Movies.ipynb
+colab notebook (https://colab.research.google.com/drive/1stfKLQgd2V3AE2ku52cr7LPWOUCoSCCN?usp=sharing)
 
 Run all cells to reproduce the analysis
 
-Project Structure
+## Project Structure
 AmazonPrime_TVshows_Movies.ipynb
 README.md
 dataset.csv
-Conclusion
+
+## Conclusion
 
 This project demonstrates practical data cleaning, visualization, and insight extraction skills using real-world streaming platform data. It reflects the application of EDA techniques to generate data-driven business recommendations.
