@@ -83,13 +83,13 @@ Highly rated titles do not always have the highest vote counts
 
 Increase content diversity from multiple countries
 
-Focus on high-performing genres like drama, thriller, comedy
+Focus on high-performing genres like SciFi, War and Fantasy
 
 Maintain optimal movie runtime range
 
 Add more high-quality TV shows
 
-Consider adding popular pre-2010 content
+
 
 ## How to Run This Project
 
@@ -103,7 +103,7 @@ pip install pandas numpy matplotlib seaborn plotly
 
 Open the notebook
 
-colab notebook (https://colab.research.google.com/drive/1stfKLQgd2V3AE2ku52cr7LPWOUCoSCCN?usp=sharing)
+colab notebook (https://colab.research.google.com/drive/1yX1B8Q677dmco9Y0W8dufEho7UTbtXBx#scrollTo=w6K7xa23Elo4)
 
 Run all cells to reproduce the analysis
 
