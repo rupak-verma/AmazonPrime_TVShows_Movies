@@ -75,9 +75,9 @@ Most content is concentrated in recent years
 
 Movies with runtime between 80–120 minutes is the sweet spot for runtime
 
-Certain genres dominate the platform
+Genres like SciFi, War and Fantasy getting more audience.
 
-Highly rated titles do not always have the highest vote counts
+Highly rated titles do not always have the highest vote counts.
 
 ## Business Recommendations
 
